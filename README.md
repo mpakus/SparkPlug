@@ -3,10 +3,9 @@ A scaffolding library inspired by Ruby on Rails scaffolding. Adds the ability to
 Original code - http://code.google.com/p/sparkplug/ works with lower than 2 version of CodeIgniter, I'm just fixed scaffolding method for CI ver 2.x and it's works.
 
 author Pascal Kriete
-small fixes for CI ver.2.x by MpaK
+small fixes for CI ver.2.x by MpaK <info@mrak7.com>
 
 <code>
-<?php
 
 class Partners extends CI_Controller {
 
