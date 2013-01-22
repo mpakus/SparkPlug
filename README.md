@@ -18,6 +18,7 @@ class Partners extends CI_Controller {
 		$this->load->library( 'sparkPlug' );
 		$this->sparkplug->set_table( 'partners' );
 		$this->sparkplug->scaffold();
-   }
+    }
 }
+
 </code>
